@@ -1,6 +1,6 @@
 {
   "name": "qr-string",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "Generate a PNG/BASE64 string to generate a QR code",
   "main": "index.js",
   "scripts": {
